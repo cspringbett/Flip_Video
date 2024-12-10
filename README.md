@@ -15,8 +15,10 @@ If not, install using
 
 Pretty simple, just copy flip_video.sh into your directory, move into your directory using 
 - cd /path/to/your/files
+
 And finally run the program
 - sudo bash flip_video.sh
+
 Alternatively, you can save flip_video.sh somewhere else and call the program using its pathname.
 
 # Output
