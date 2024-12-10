@@ -17,7 +17,7 @@ Pretty simple, just copy flip_video.sh into your directory, move into your direc
 - cd /path/to/your/files
 
 Make the script executable using
-- chmod +x flip_videos.sh
+- chmod +x flip_video.sh
 
 And finally run the program
 - sudo bash flip_video.sh
@@ -29,6 +29,6 @@ The program will create a copy of the original un-flipped video rotated 180 degr
 The file type can be replaced with another (mp4, mov, .h264, etc) depending on your source file type.
 You can have the option to rotate 90 degrees left or right, rather than 180. Before running script, edit in command line/terminal using
 
-- sudo nano flip_cam.sh
+- sudo nano flip_video.sh
 
 And comment/un-comment out code blocks depending on your preference.
